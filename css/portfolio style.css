@@ -1,9 +1,6 @@
-body{
-    background-color:beige
-}
 .bannerBgImage{
     height: 100vh;
-    background: url(..img1.jpg);
+    background: url(../img1.jpg);
     background-size: cover;
     position:relative;
 }
