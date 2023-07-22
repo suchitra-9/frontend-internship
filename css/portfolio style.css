@@ -3,7 +3,7 @@ body{
 }
 .bannerBgImage{
     height: 100vh;
-    background: url(..cssimage.jpg);
+    background: url(..img1.jpg);
     background-size: cover;
     position:relative;
 }
