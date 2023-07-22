@@ -1,6 +1,6 @@
 .bannerBgImage{
     height: 100vh;
-    background: url('../images/salesforce.jpg');
+    background: url(../images/salesforce.jpg);
     background-size: cover;
     position:relative;
 }
